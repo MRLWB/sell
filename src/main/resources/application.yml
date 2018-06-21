@@ -17,8 +17,8 @@ server:
 
 
 wechat:
-  mpAppId: wx67d611cfd74850a4
-  mpAppSecret: 4164617d5d0c175a217c2dfd07ed2d35
+  mpAppId: 
+  mpAppSecret: 
   openAppId:
   openAppSecret:
   mchId:
